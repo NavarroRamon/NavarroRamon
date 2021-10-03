@@ -1,4 +1,4 @@
-## 👀 HELLO THERE! 👀 
+## 👋 HELLO THERE! 👋
 
 I'm a physicist interested in the data science world
 
