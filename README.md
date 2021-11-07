@@ -7,14 +7,13 @@ Currently, the most worked project is in the [**HeartFailure_ClassificationProbl
 
 
 <a href="https://github.com/NavarroRamon/HeartFailure_ClassificationProblem" target="_blank">
-  <img src="img/carpeta.png"  width=25" height="25">
+  <img src="img/carpetab.png"  width=25" height="25">
   <b> HeartFailure_ClassificationProblem </b> 
 </a>
-
                                                    
 <br>
 <a href="https://github.com/NavarroRamon/DealingWith_ImbalancedData" target="_blank">
-  <img src="img/carpeta.png"  width=25" height="25">
+  <img src="img/carpetab.png"  width=25" height="25">
   <b> DealingWith_ImbalancedData </b> 
 </a>
 
