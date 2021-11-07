@@ -8,8 +8,10 @@ Just click in the play symbol or in the description of the projects to see a lis
 
 
 
+<br>
 <b>Machine Learning</b>
-<body><details>
+<body>
+    <details>
         <summary><i>ML repositories usually culminate with the machine learning model implementation and validation. <br>
 This repositories include exploratory data analysis, visualizations and preprocessing and preparation of data.</i>
 </summary>
@@ -25,9 +27,6 @@ This repositories include exploratory data analysis, visualizations and preproce
 </a>
 </details>        
 </body>
-
-
-<br>
 <b>Python</b>
 <body>
     <details>
@@ -41,6 +40,8 @@ Most of them has a GUI.</i>
 </details>        
 </body>
 
+
+                                                    
 <!---
 NavarroRamon/NavarroRamon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
