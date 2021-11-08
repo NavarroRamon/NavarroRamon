@@ -13,7 +13,7 @@ Just click on the play symbol or in the description of the projects to see a lis
 <body>
     <details>
         <summary><i>ML repositories usually culminate with the machine learning model implementation and validation. <br>
-This repositories include exploratory data analysis, visualizations and preprocessing and preparation of data.</i>
+This repositories include exploratory data analysis, visualizations, preprocessing and preparation of data.</i>
 </summary>
 <a href="https://github.com/NavarroRamon/HeartFailure_ClassificationProblem" target="_blank">
   <img src="img/carpetab.png"  width=25" height="25">
