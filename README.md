@@ -1,10 +1,8 @@
 ## 🌐 HELLO THERE! 🌐
 
 I'm a physicist interested in the data science world
-
 Here you gonna find some projects im making and some tips and tricks for EDA and a little more. <br>
 Just click on the play symbol or in the description of the projects to see a list of the links to the repositories.
-
 
 
 
@@ -14,7 +12,7 @@ Just click on the play symbol or in the description of the projects to see a lis
     <details>
         <summary><i>ML repositories usually culminate with the machine learning model implementation and validation. <br>
 This repositories include exploratory data analysis, visualizations, preprocessing and preparation of data.</i>
-</summary>
+</summary> <img src="img/ml_icon.png"  width=128" height="128"> <br>
 <a href="https://github.com/NavarroRamon/HeartFailure_ClassificationProblem" target="_blank">
   <img src="img/carpetab.png"  width=25" height="25">
   <b> HeartFailure_ClassificationProblem </b> 
@@ -25,6 +23,8 @@ This repositories include exploratory data analysis, visualizations, preprocessi
   <img src="img/carpetab.png"  width=25" height="25">
   <b> DealingWith_ImbalancedData </b> 
 </a>
+
+
 </details>        
 </body>
 <b>Python</b>
