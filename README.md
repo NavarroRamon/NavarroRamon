@@ -7,12 +7,12 @@ Just click on the play symbol or in the description of the projects to see a lis
 
 
 <br>
-<b>Machine Learning</b>
+<b><img src="img/ml_icon2.png"  width=28" height="28"> Machine Learning</b>
 <body>
     <details>
         <summary><i>ML repositories usually culminate with the machine learning model implementation and validation. <br>
 This repositories include exploratory data analysis, visualizations, preprocessing and preparation of data.</i>
-</summary> <img src="img/ml_icon.png"  width=128" height="128"> <br>
+</summary>
 <a href="https://github.com/NavarroRamon/HeartFailure_ClassificationProblem" target="_blank">
   <img src="img/carpetab.png"  width=25" height="25">
   <b> HeartFailure_ClassificationProblem </b> 
@@ -27,7 +27,7 @@ This repositories include exploratory data analysis, visualizations, preprocessi
 
 </details>        
 </body>
-<b>Python</b>
+<b><img src="img/python_icon.png"  width=28" height="28"> Python</b>
 <body>
     <details>
         <summary><i>This repositories contain projects made with python code.
