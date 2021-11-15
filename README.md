@@ -1,10 +1,8 @@
+----
 ## 🌐 HELLO THERE! 🌐
-
 I'm a physicist interested in the data science world
 Here you gonna find some projects im making and some tips and tricks for EDA and a little more. <br>
 Just click on the play symbol or on the description of the projects to see a list of the links to the repositories.
-
-
 
 <br>
 <b><img src="img/ml_icon2.png"  width=28" height="28"> Machine Learning</b>
@@ -40,7 +38,7 @@ Most of them has a GUI.</i>
 </details>        
 </body>
 
-
+---
                                                     
 <!---
 NavarroRamon/NavarroRamon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
