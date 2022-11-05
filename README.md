@@ -44,10 +44,9 @@ Most of them has a GUI.</i>
 
 </details>        
 </body>
+<br>
 
 ---
-                                                    
-<!---
-NavarroRamon/NavarroRamon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<em><b>Currently learning:</b><br>
+Kotlin, Qlik</em>
