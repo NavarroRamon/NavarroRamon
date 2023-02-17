@@ -31,6 +31,12 @@ This repositories include exploratory data analysis, visualizations, preprocessi
         <summary><i>This repositories contain projects made with python code.
 Most of them has a GUI.</i>
 </summary>
+<a href="https://github.com/NavarroRamon/AmazonPriceTracker" target="_blank">
+  <img src="img/carpetab.png"  width=25" height="25">
+  <b> AmazonPriceTracker </b>
+</a>
+
+<br>
 <a href="https://github.com/NavarroRamon/TheGameOfLife" target="_blank">
   <img src="img/carpetab.png"  width=25" height="25">
   <b> TheGameOfLife </b>
