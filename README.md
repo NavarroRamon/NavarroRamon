@@ -29,7 +29,7 @@ This repositories include exploratory data analysis, visualizations, preprocessi
 <body>
     <details>
         <summary><i>This repositories contain projects made with python code.
-Most of them has a GUI, some of the libraries used are, pygame, PyQt, tkinter, selenium, etc.</i>
+Most of them has a GUI.<br>Some of the libraries used are, pygame, PyQt, tkinter, selenium, etc.</i>
 </summary>
         
 <a href="https://github.com/NavarroRamon/Basic-MVC-Template" target="_blank">
