@@ -13,13 +13,13 @@ This repositories include exploratory data analysis, visualizations, preprocessi
 </summary>
 <a href="https://github.com/NavarroRamon/DealingWith_ImbalancedData" target="_blank">
   <img src="img/carpetab.png"  width=25" height="25">
-  <b> DealingWith_ImbalancedData </b> 
+  <b> DealingWithImbalancedData </b> 
 </a>
 
 <br>
 <a href="https://github.com/NavarroRamon/HeartFailure_ClassificationProblem" target="_blank">
   <img src="img/carpetab.png"  width=25" height="25">
-  <b> HeartFailure_ClassificationProblem </b> 
+  <b> HeartFailureClassificationProblem </b> 
 </a>
 
 
@@ -41,7 +41,7 @@ Most of them has a GUI.<br>Some of the libraries used are, pygame, PyQt, tkinter
 <br>
 <a href="https://github.com/NavarroRamon/Basic-MVC-Template" target="_blank">
   <img src="img/carpetab.png"  width=25" height="25">
-  <b> Model-View-Controller Template </b>
+  <b> ModelViewControllerTemplate </b>
 </a>
 
 <br>        
@@ -61,6 +61,19 @@ Most of them has a GUI.<br>Some of the libraries used are, pygame, PyQt, tkinter
   <img src="img/carpetab.png"  width=25" height="25">
   <b> SolarSystem </b>
 </a>
+</details>        
+</body>
+<b><img src="img/arduino_icon.png"  width=28" height="28"> Arduino</b>
+<body>
+    <details>
+        <summary><i>Arduino projects ready to run!.<br>
+You will find the code and all the components needed to get the project working.</i>
+</summary>
+<a href="https://github.com/NavarroRamon/NA" target="_blank">
+  <img src="img/carpetab.png"  width=25" height="25">
+  <b> ArduinoTamagotcheems </b> 
+</a>
+
 
 </details>        
 </body>
