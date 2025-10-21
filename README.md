@@ -32,6 +32,13 @@ This repositories include exploratory data analysis, visualizations, preprocessi
 Most of them has a GUI.<br>Some of the libraries used are, pygame, PyQt, tkinter, selenium, etc.</i>
 </summary>
         
+
+<a href="https://github.com/NavarroRamon/StocksTracker" target="_blank">
+  <img src="img/carpetab.png"  width=25" height="25">
+  <b> StocksTracker </b>
+</a>
+
+<br>
 <a href="https://github.com/NavarroRamon/Basic-MVC-Template" target="_blank">
   <img src="img/carpetab.png"  width=25" height="25">
   <b> Model-View-Controller Template </b>
@@ -61,5 +68,4 @@ Most of them has a GUI.<br>Some of the libraries used are, pygame, PyQt, tkinter
 
 ---
 
-<em><b>Currently learning:</b><br>
-Kotlin, Qlik</em>
+<em><b>At least... it works!</b><br></em>
